@@ -1,6 +1,6 @@
 # Deployed Link:
 
-https://timely-buttercream-8ecd76.netlify.app
+https://astounding-bubblegum-348487.netlify.app
 
 # Getting Started with Create React App
 
